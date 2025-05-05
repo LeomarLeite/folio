@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Desenvolvimento Web",
+      "icon": "code",
+      "items": [
+        "Criação de sites responsivos",
+        "Desenvolvimento de aplicações web",
+        "Otimização de performance",
+        "SEO e acessibilidade"
+      ],
+      "ordem": 1
+    },
+    {
+      "id": 2,
+      "title": "Desenvolvimento Backend",
+      "icon": "server",
+      "items": [
+        "Criação de APIs RESTful",
+        "Integração com bancos de dados",
+        "Autenticação e autorização",
+        "Otimização de consultas"
+      ],
+      "ordem": 2
+    },
+    {
+      "id": 3,
+      "title": "Consultoria Técnica",
+      "icon": "lightbulb",
+      "items": [
+        "Análise de requisitos",
+        "Arquitetura de software",
+        "Revisão de código",
+        "Melhores práticas de desenvolvimento"
+      ],
+      "ordem": 3
+    }
+  ]
+  

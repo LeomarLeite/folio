@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "HTML",
+      "level": "Avançado",
+      "icon": "html5",
+      "group": "Frontend",
+      "ordem": 1
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "level": "Avançado",
+      "icon": "css3",
+      "group": "Frontend",
+      "ordem": 2
+    },
+    {
+      "id": 3,
+      "name": "JavaScript",
+      "level": "Intermediário",
+      "icon": "javascript",
+      "group": "Frontend",
+      "ordem": 3
+    },
+    {
+      "id": 4,
+      "name": "PHP",
+      "level": "Avançado",
+      "icon": "php",
+      "group": "Backend",
+      "ordem": 1
+    },
+    {
+      "id": 5,
+      "name": "MySQL",
+      "level": "Intermediário",
+      "icon": "database",
+      "group": "Backend",
+      "ordem": 2
+    },
+    {
+      "id": 6,
+      "name": "Git",
+      "level": "Intermediário",
+      "icon": "git",
+      "group": "Ferramentas",
+      "ordem": 1
+    }
+  ]
+  

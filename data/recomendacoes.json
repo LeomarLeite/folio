@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Ana Silva",
+      "position": "Gerente de Projetos",
+      "company": "Tech Solutions",
+      "avatar": "assets/images/avatar1.jpg",
+      "text": "Leomar é um profissional dedicado e competente. Seu trabalho no desenvolvimento do nosso sistema interno superou todas as expectativas.",
+      "ordem": 1
+    },
+    {
+      "id": 2,
+      "name": "Carlos Mendes",
+      "position": "Diretor de Tecnologia",
+      "company": "Inovação Digital",
+      "avatar": "assets/images/avatar2.jpg",
+      "text": "Trabalhamos com Leomar em diversos projetos e sempre ficamos impressionados com sua capacidade técnica e comprometimento com prazos.",
+      "ordem": 2
+    },
+    {
+      "id": 3,
+      "name": "Juliana Costa",
+      "position": "CEO",
+      "company": "StartUp Brasil",
+      "avatar": "assets/images/avatar3.jpg",
+      "text": "Leomar transformou nossa ideia em um produto digital excepcional. Sua habilidade em entender as necessidades do cliente é notável.",
+      "ordem": 3
+    }
+  ]
+  

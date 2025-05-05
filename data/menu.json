@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "title": "Home",
+      "link": "#",
+      "icon": "home.png",
+      "exibir": true,
+      "ordem": 1
+    },
+    {
+      "id": 2,
+      "title": "Sobre",
+      "link": "#sobre",
+      "icon": "user.png",
+      "exibir": true,
+      "ordem": 2
+    },
+    {
+      "id": 3,
+      "title": "Habilidades",
+      "link": "#habilidades",
+      "icon": "skills.png",
+      "exibir": true,
+      "ordem": 3
+    },
+    {
+      "id": 4,
+      "title": "Serviços",
+      "link": "#servicos",
+      "icon": "services.png",
+      "exibir": true,
+      "ordem": 4
+    },
+    {
+      "id": 5,
+      "title": "Projetos",
+      "link": "#projetos",
+      "icon": "projects.png",
+      "exibir": true,
+      "ordem": 5
+    },
+    {
+      "id": 6,
+      "title": "Recomendações",
+      "link": "#recomendacoes",
+      "icon": "testimonials.png",
+      "exibir": true,
+      "ordem": 6
+    },
+    {
+      "id": 7,
+      "title": "Contato",
+      "link": "#contato",
+      "icon": "contact.png",
+      "exibir": true,
+      "ordem": 7
+    }
+  ]
+  

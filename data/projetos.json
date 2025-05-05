@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "Sistema de Gestão",
+      "description": "Sistema completo para gestão empresarial desenvolvido com PHP e MySQL.",
+      "image": "assets/images/projeto1.jpg",
+      "github": "https://github.com/username/projeto1",
+      "demo": "https://exemplo.com/demo1",
+      "technologies": ["PHP", "MySQL", "HTML", "CSS", "JavaScript"],
+      "ordem": 1
+    },
+    {
+      "id": 2,
+      "title": "E-commerce Responsivo",
+      "description": "Loja virtual completa com sistema de pagamentos integrado e painel administrativo.",
+      "image": "assets/images/projeto2.jpg",
+      "github": "https://github.com/username/projeto2",
+      "demo": "https://exemplo.com/demo2",
+      "technologies": ["PHP", "Laravel", "MySQL", "Bootstrap", "jQuery"],
+      "ordem": 2
+    },
+    {
+      "id": 3,
+      "title": "Blog Corporativo",
+      "description": "Plataforma de conteúdo com sistema de gerenciamento de artigos e categorias.",
+      "image": "assets/images/projeto3.jpg",
+      "github": "https://github.com/username/projeto3",
+      "demo": "https://exemplo.com/demo3",
+      "technologies": ["WordPress", "PHP", "MySQL", "JavaScript"],
+      "ordem": 3
+    }
+  ]
+  

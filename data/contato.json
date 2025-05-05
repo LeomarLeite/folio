@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "WhatsApp",
+      "link": "https://wa.me/5500000000000",
+      "mascara-link": "wha",
+      "icon": "whatsapp.png",
+      "exibir": true,
+      "ordem": 1
+    },
+    {
+      "id": 2,
+      "title": "E-mail",
+      "link": "mailto:contato@exemplo.com",
+      "mascara-link": "email",
+      "icon": "email.png",
+      "exibir": true,
+      "ordem": 2
+    },
+    {
+      "id": 3,
+      "title": "LinkedIn",
+      "link": "https://linkedin.com/in/username",
+      "mascara-link": "linkedin",
+      "icon": "linkedin.png",
+      "exibir": true,
+      "ordem": 3
+    },
+    {
+      "id": 4,
+      "title": "GitHub",
+      "link": "https://github.com/username",
+      "mascara-link": "github",
+      "icon": "github.png",
+      "exibir": true,
+      "ordem": 4
+    }
+  ]
+  
